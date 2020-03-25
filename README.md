@@ -15,7 +15,8 @@ KiCad Libraries of keyboard switch footprints
 	* Hotswap - Kailh hotswap sockets.
 * **ALPS_Only.pretty** - Only for alps SKCM/SKCL, SKBM/SKBL, and clones with same pin structure.  
 	* LED - Specifically for Alps SKCL with in-switch indicators.
-* **Kailh_Choc.pretty** - Only for Kailh Choc switches.  
+* **Kailh_Choc.pretty** - Only for Kailh Choc switches.
+* **MX_RGB.pretty** - MX pads with built-in footprint for [SK6812MINI-E](https://hackaday.com/2020/01/28/new-part-day-sk6812-mini-e-a-hand-solderable-neopixel-compatible-led/).  
 
 ### Features
  * Designed from scratch using official datasheets and accurate measurements
