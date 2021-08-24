@@ -59,8 +59,8 @@
          (xy -1.1954 1.2192) (xy 3.275 1.9304) (xy 3.275 -1.9304) (xy -1.1954 -1.2192)) (width 0.1))
     ))
   (pad 2 thru_hole circle (at -2.54 -5.08 180) (size 4 4) (drill 3) (layers *.Cu F.Mask))
-  (pad 3 thru_hole circle (at -1.27 5.08) (size 1.905 1.905) (drill 1.04) (layers *.Cu B.Mask))
-  (pad 4 thru_hole rect (at 1.27 5.08) (size 1.905 1.905) (drill 1.04) (layers *.Cu B.Mask))
+  (pad 4 thru_hole rect (at -1.27 5.08) (size 1.905 1.905) (drill 1.04) (layers *.Cu B.Mask))
+  (pad 3 thru_hole circle (at 1.27 5.08) (size 1.905 1.905) (drill 1.04) (layers *.Cu B.Mask))
   (model ${KBLIBDIR}/MX_Alps_Hybrid/3D_Models/kailh_socket_mx.stp
     (offset (xyz 0.6 3.75 2))
     (scale (xyz 1 1 1))
